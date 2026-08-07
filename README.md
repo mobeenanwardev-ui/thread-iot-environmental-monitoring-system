@@ -114,9 +114,9 @@ During hardware testing, **two independent Border Routers and three sensor nodes
 
 ## Documentation
 
-- **Project report:** [`docs/SSNS_Project_Report.pdf`](docs/SSNS_Project_Report.pdf)
 - **LaTeX source:** [`paper/main.tex`](paper/main.tex)
 - **Presentation:** [Gamma — Thread-Based Intelligent Indoor Environmental Monitoring System](https://gamma.app/docs/Thread-Based-Intelligent-Indoor-Environmental-Monitoring-System-a6d3s97ftyguy9f?mode=doc)
+- **Final report PDF:** place the submitted report at `docs/SSNS_Project_Report.pdf`.
 
 > Note: this repository currently focuses on the project report and technical documentation. The complete implementation source code is not included in the attached project materials.
 
